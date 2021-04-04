@@ -10,7 +10,7 @@
   display: block;
   text-align: right;
 }
-.header-img {
+.header__img {
   width: 100%;
 }
 .header .details {
@@ -33,7 +33,7 @@
   display: inline-block;
   flex-grow: 1;
 }
-.task-row-wrapper {
+.task__wrapper {
   display: flex;
 }
 ul {
